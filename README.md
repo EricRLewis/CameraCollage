@@ -1,5 +1,5 @@
 # CameraCollage
-This small camera application allows users to combine several photos into a collage.
+This small Android camera application allows users to combine several photos into a collage.
 
 How to use:
 To capture a picture, touch the picture on screen. This will capture and bring up a new camera window next to the photo.
